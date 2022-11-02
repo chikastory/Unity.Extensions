@@ -1,0 +1,58 @@
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.UserSettings
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# JetBrains Rider
+.idea/
+*.DotSettings*
+
+# MonoDevelop
+*.userprefs
+
+# Visual Studio
+.vs/
+.vsconfig
+
+# Visual Studio Code
+.vscode/
+
+# Unity
+/src/Unity.Extensions/Library/
+/src/Unity.Extensions/Logs/
+/src/Unity.Extensions/Temp/
+/src/Unity.Extensions/UserSettings/
+
+/src/Unity.Extensions/*.csproj
+/src/Unity.Extensions/*.sln
+/src/Unity.Extensions/Packages/packages-lock.json
+
+# Unity Addressables
+/src/Unity.Extensions/Assets/AddressableAssetsData/*/*.bin*
+/src/Unity.Extensions/Assets/AddressableAssetsData/link.xml*
+
+# Unity CodeCoverage
+/src/Unity.Extensions/CodeCoverage/
+/src/Unity.Extensions/ProjectSettings/Packages/com.unity.testtools.codecoverage/
+
+# Unity Recordings
+/src/Unity.Extensions/Recordings/
+
+# Unity UI Toolkit
+/src/Unity.Extensions/UIElementsSchema/
+
+# Unity NuGet importer
+/src/Unity.Extensions/NuGet/
+/src/Unity.Extensions/Packages/*
+/src/Unity.Extensions/ProjectSettings/existingPackages.xml
+/src/Unity.Extensions/ProjectSettings/packageAsmNames.json
+/src/Unity.Extensions/ProjectSettings/rootPackages.xml
+
+!/src/Unity.Extensions/Packages/manifest.json
+!/src/Unity.Extensions/Packages/Unity.Extensions

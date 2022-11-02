@@ -1,0 +1,10 @@
+{
+  "name": "com.chikastory.unity.extensions",
+  "displayName": "Unity.Extensions",
+  "author": { "name": "Chika Chang", "url": "https://blog.chikastory.com" },
+  "version": "0.0.0-development",
+  "unity": "2021.3",
+  "description": "Extensions for Unity.",
+  "license": "MIT",
+  "category": "Scripting"
+}

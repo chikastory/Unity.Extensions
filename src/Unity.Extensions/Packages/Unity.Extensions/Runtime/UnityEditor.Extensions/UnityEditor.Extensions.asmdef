@@ -1,0 +1,7 @@
+﻿{
+  "name": "UnityEditor.Extensions",
+  "rootNamespace": "UnityEditor",
+  "references": ["UnityEngine.Extensions"],
+  "includePlatforms": ["Editor"],
+  "defineConstraints": ["UNITY_EDITOR"]
+}
